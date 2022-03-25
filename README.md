@@ -9,9 +9,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#vitalis_mutwiri)
 
 ### Screenshot
-![./images/FireShot Capture 001 - Frontend Mentor - QR code component - .png](./screenshot.jpg)
+![./images/FireShotqr.png](./images/FireShotqr.png)
 ### Links
-- Solution URL: [https://svitalis123.github.io.]
+- Solution URL: [https://github.com/svitalis123/qr.github.io]
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Styled Components](https://styled-components.com/) - For style
 ## Author
 
-- Website - [vitalis](https://username.github.io.)
+- Website - [https://github.com/svitalis123/qr.github.io](https://username.github.io.)
 - Frontend Mentor - [@svitalis123](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
